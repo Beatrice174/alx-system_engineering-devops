@@ -1,1 +1,1 @@
-only Other users: all the permissions
+Write a script that sets the mode of the file hello to -rwxr-x-wx
