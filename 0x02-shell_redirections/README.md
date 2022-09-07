@@ -1,1 +1,1 @@
-Write a script that reverse its input
+users and their home directories
