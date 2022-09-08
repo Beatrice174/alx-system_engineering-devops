@@ -1,1 +1,1 @@
-users and their home directories
+Write a script that displays a confused smiley
